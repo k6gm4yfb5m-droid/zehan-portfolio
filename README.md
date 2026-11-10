@@ -11,6 +11,12 @@ Publish the `main` branch from `/ (root)` in **Settings → Pages → Build and 
 - `.nojekyll` serves the authored static files directly.
 - Keep `assets/`, the stylesheets and JavaScript alongside all nine HTML pages.
 
+## Downloadable portfolio
+
+[Download the portfolio PDF](./downloads/Li-Zehan-Design-Portfolio.pdf).
+
+The 22-page, 12.4 MB A4 landscape portfolio uses a 12-column editorial grid, embedded Chinese fonts, linked contents and eight selected projects. It has a clean page view with no visible production marks. Header and homepage download buttons link to the same file. Preserve `downloads/` when copying or publishing the website.
+
 ## Preview locally
 
 ```sh
